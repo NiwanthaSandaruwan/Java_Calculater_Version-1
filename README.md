@@ -1,4 +1,4 @@
-# Java Calculator Version 1
+# Java Calculator Version 1.0
 * Java Calculator is a simple calculator application built using Java Swing. It provides basic arithmetic calculations and supports addition, subtraction, multiplication, division, and more. The calculator's user interface is designed with a clean and intuitive layout.
 <br></br>
 ![Screenshot 2023-08-22 100222](https://github.com/NiwanthaSandaruwan/Java_Calculater_Version-1/assets/142104353/678f7ecf-9fce-44c7-8ee3-3c4d0f6cb973)
@@ -22,7 +22,7 @@
 
 2. **Compile and Run**: If you prefer to compile and run the code yourself, follow these steps:
 
-   - Clone the repository: `git clone https://github.com/yourusername/java-calculator.git`
+   - Clone the repository: `https://github.com/NiwanthaSandaruwan/Java_Calculater_Version-1.git`
    - Navigate to the project directory: `cd java-calculator`
    - Compile the code: `javac Java_Calculater.java`
    - Run the application: `java Java_Calculater.java`
